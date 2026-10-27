@@ -23,4 +23,4 @@ Self-hosted printing kiosk: users upload documents and pay with Razorpay on thei
 **Tools:** Docker, GitHub Actions, JUnit, Mockito, k6, Streamlit
 
 ## Contact
-<LinkedIn URL> · <email>
+<www.linkedin.com/in/chandhuru-ramesh> · <chandhurugandhi@gmail.com>

@@ -1,4 +1,4 @@
-# Hi, I'm <Chandhuru R> 
+# Hi, I'm Chandhuru R
 
 Backend developer from Puducherry, India. I build with Java/Spring Boot and Python, and I like projects that run live, are tested, and come with measured results.
 

@@ -13,6 +13,7 @@ Turns doctor–patient conversations (text or audio) into editable SOAP notes wi
 `Python` `Streamlit` `LLMs` `QLoRA` `Transformers` `spaCy`
 
 ### [Smart IoT Printing Kiosk](https://github.com/chandhuru018/smart-printing-backend) . [Live demo] (https://smart-printing-backend-agnl.onrender.com/)
+(https://smart-printing-backend-agnl.onrender.com/admin/)
 Self-hosted printing kiosk: users upload documents and pay with Razorpay on their phone, then collect the printout with a one-time PIN. A local agent polls for jobs and prints silently; an admin dashboard tracks paper and ink.
 `Python` `Flask` `MongoDB Atlas` `Razorpay` `Render`
 

@@ -12,7 +12,7 @@ Multi-tenant platform that delivers events to customer URLs with HMAC-signed pay
 Turns doctor–patient conversations (text or audio) into editable SOAP notes with entity extraction and Word export. Runs in the cloud with Groq (Whisper + Llama 3.3 70B), plus an offline mode using my own fine-tuned Llama 3.2 3B (QLoRA on ~9.6k examples, quantized to GGUF).
 `Python` `Streamlit` `LLMs` `QLoRA` `Transformers` `spaCy`
 
-### [Smart IoT Printing Kiosk](https://github.com/chandhuru018/smart-printing-backend)
+### [Smart IoT Printing Kiosk](https://github.com/chandhuru018/smart-printing-backend) . [Live demo] (https://smart-printing-backend-agnl.onrender.com/)
 Self-hosted printing kiosk: users upload documents and pay with Razorpay on their phone, then collect the printout with a one-time PIN. A local agent polls for jobs and prints silently; an admin dashboard tracks paper and ink.
 `Python` `Flask` `MongoDB Atlas` `Razorpay` `Render`
 
